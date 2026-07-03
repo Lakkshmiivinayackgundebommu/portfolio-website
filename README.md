@@ -1,16 +1,23 @@
 # Portfolio Website
 
-This repository contains the source code for my personal portfolio website. It presents my education, technical skills, projects, certifications, and contact information in a simple and responsive design.
-
 ## Overview
 
-The website includes:
+This repository contains the source code for my personal portfolio website. The website presents my education, technical skills, projects, certifications, resume, and contact information.
 
-- Home
+## Live Website
+
+https://lakkshmiivinayackgunndebommu.netlify.app/
+
+## Features
+
+- Responsive layout
+- About
 - Education
 - Skills
 - Projects
+- Resume
 - Contact
+- Social media links
 
 ## Technologies Used
 
@@ -34,13 +41,13 @@ portfolio-website/
 └── .gitignore
 ```
 
-## Running the Project
-
-1. Download or clone the repository.
-2. Open `index.html` in a web browser.
-
-No additional software or dependencies are required.
-
 ## Author
 
-Lakkshmii Vinayack Gunndebommu
+**Lakkshmii Vinayack Gunndebommu**
+
+Email: lakkshmiivinayackgundebommu@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/lakkshmiiivinayack-gunndebommu/
+## License
+
+This project is licensed under the MIT License.
