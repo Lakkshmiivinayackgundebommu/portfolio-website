@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Live Website
 
-https://lakkshmiivinayackgunndebommu.netlify.app/
+https://lakkshmiivinayackgundebommu.netlify.app/
 
 ## Features
 
