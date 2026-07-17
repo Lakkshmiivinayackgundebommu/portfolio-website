@@ -47,7 +47,7 @@ portfolio-website/
 
 Email: lakkshmiivinayackgundebommu@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/lakkshmiiivinayack-gunndebommu/
+LinkedIn: https://www.linkedin.com/in/lakkshmiiivinayackgundebommu/
 ## License
 
 This project is licensed under the MIT License.
